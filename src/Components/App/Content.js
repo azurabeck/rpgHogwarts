@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 
+// Pages Import
+import Home from '../SubPage/Home'
+
 class Content extends Component {
     render() {
         return(
-            <div>Content</div>
+            <Home />
         )
     }
 }

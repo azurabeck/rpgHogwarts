@@ -6,10 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #333;
-  background-image: url('../Image/home-bg.jpg');
-  background-size: fill; 
-  background-repeat: no-repeat;
+  background-color: #000;
 }
 
 code {

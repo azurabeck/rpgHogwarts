@@ -1,0 +1,9 @@
+/* #region Home*/
+.homeContent {
+  background-image: url('../Image/home-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 90vh;
+  position: relative;
+}
