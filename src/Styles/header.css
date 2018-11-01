@@ -1,0 +1,11 @@
+.navbar {
+    background-color: rgb(160, 30, 30);
+}
+
+.navbar-default {
+    border: none;
+}
+
+.navbar {
+    border-radius: 0px;
+}
